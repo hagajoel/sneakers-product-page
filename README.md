@@ -1,5 +1,7 @@
 ## Sneakers e-commerce product page
 
+Live siter [here](https://sneakers-product-page-ecommerce.netlify.app/)
+
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
